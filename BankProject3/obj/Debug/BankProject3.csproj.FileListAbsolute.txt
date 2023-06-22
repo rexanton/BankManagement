@@ -1,0 +1,8 @@
+C:\Users\anton\source\repos\BankProject\BankProject3\bin\Debug\BankProject3.exe.config
+C:\Users\anton\source\repos\BankProject\BankProject3\bin\Debug\BankProject3.exe
+C:\Users\anton\source\repos\BankProject\BankProject3\bin\Debug\BankProject3.pdb
+C:\Users\anton\source\repos\BankProject\BankProject3\obj\Debug\BankProject3.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\BankProject\BankProject3\obj\Debug\BankProject3.csproj.SuggestedBindingRedirects.cache
+C:\Users\anton\source\repos\BankProject\BankProject3\obj\Debug\BankProject3.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\BankProject\BankProject3\obj\Debug\BankProject3.exe
+C:\Users\anton\source\repos\BankProject\BankProject3\obj\Debug\BankProject3.pdb
